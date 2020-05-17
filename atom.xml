@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shuyuwang99.github.io/fanfics.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-05-17T05:23:11.170Z</updated>
+    <title>脑洞收集处</title>
+    <updated>2020-05-17T05:28:44.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shuyuwang99.github.io/fanfics.github.io"/>
     <link rel="self" href="https://shuyuwang99.github.io/fanfics.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>YOLO</subtitle>
     <logo>https://shuyuwang99.github.io/fanfics.github.io/images/avatar.png</logo>
     <icon>https://shuyuwang99.github.io/fanfics.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 脑洞收集处</rights>
     <entry>
         <title type="html"><![CDATA[Doubt is Contagious 传染性疑虑]]></title>
         <id>https://shuyuwang99.github.io/fanfics.github.io/post/doubt-is-contagious-chuan-ran-xing-yi-lu/</id>
