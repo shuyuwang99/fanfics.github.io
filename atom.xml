@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shuyuwang99.github.io/fanfics.github.io</id>
     <title>脑洞收集处</title>
-    <updated>2020-05-17T05:43:39.192Z</updated>
+    <updated>2020-05-18T18:06:45.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shuyuwang99.github.io/fanfics.github.io"/>
     <link rel="self" href="https://shuyuwang99.github.io/fanfics.github.io/atom.xml"/>
@@ -154,6 +154,25 @@ Rebel_Atar</p>
 <!-- more -->
 <!-- more -->
 <p>-END-</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://shuyuwang99.github.io/fanfics.github.io/post/about/</id>
+        <link href="https://shuyuwang99.github.io/fanfics.github.io/post/about/">
+        </link>
+        <updated>2019-01-24T21:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>无限制的博客，想搞啥搞啥，再也不用求着lof大爷给我解封了。</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>文曜，计算机狗，自入学以来搞过的最开心的project就是这个站子。从此再也不怕lofter一身G点。</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>音乐剧，看文写文，画画半吊子，究极宅。</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>lof私信找我玩鸭❤❤❤！</p>
 ]]></content>
     </entry>
     <entry>
