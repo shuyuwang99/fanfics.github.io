@@ -1016,3 +1016,10 @@ td {
         color: #9775fa;
       }
     
+      p{
+    text-align: justify;
+}
+p{
+    line-height: 1.8em;
+}
+    
